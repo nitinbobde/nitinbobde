@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**nitinbobde/nitinbobde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nitin Bobde, a Senior Data Architect with 15+ years of experience building enterprise data warehouses, lakehouses, and modern cloud data platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Cloud & Data Platforms:** Microsoft Fabric, Azure Synapse, OneLake, Azure Data Factory, Databricks, Snowflake
+* **Data Processing & Storage:** Delta Lake, Python, PySpark, SQL, Apache Spark
+* **Governance & BI:** Microsoft Purview, Power BI
+* **Development & DevOps:** Azure DevOps, Git, Cursor IDE
+
+---
+
+### 🌱 Current Focus
+* Designing and delivering medallion lakehouse architectures on Microsoft Fabric .
+* Implementing governance, lineage, and reconciliation controls using Microsoft Purview.
+* Integrating AI workflows and document processing solutions (Azure AI Document Intelligence, AI Foundry) into enterprise data layers.
+
+---
+
